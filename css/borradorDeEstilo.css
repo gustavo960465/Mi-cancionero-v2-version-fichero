@@ -1,0 +1,23 @@
+#miProgramaMusicalBorrarMusica{
+    padding-bottom: 10px;
+    color: #329afc;
+    margin-left: -1px;
+    background: #ffffff;
+    border: solid 1px #329afc;
+    outline: none;
+    height: 25px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+#miProgramaMusicalBorrarMusica:hover{
+    padding-bottom: 10px;
+    color: #ffffff;
+    margin-left: -1px;
+    background: #acd7ff;
+    border: solid 1px #329afc;
+    outline: none;
+    height: 25px;
+    width: 50px;
+    border-radius: 50px;
+}

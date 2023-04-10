@@ -1,0 +1,1513 @@
+
+@media (min-width:220px) and (max-width:279px) {
+    #no{
+        margin-left: 3.3%;
+        margin-right: 3.3%;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    #miBibliotecaTitulo{
+        padding-top: 6px;
+        margin-left: 0.1px;
+        font-size: 11px;
+        max-width: 108px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    #miBibliotecaTono{
+        font-size: 10px;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    #miProgramaMusicalAgregarMusica{
+        font-size: 10px;
+        overflow: hidden;
+        width: 32px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+ @media (min-width:220px) and (max-width:279px) {
+    #miProgramaMusicalBorrarMusica {
+        margin-right: 0.1px;
+        font-size: 9px;
+        overflow: hidden;
+        width: 42px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+@media (min-width:220px) and (max-width:279px) {
+    #buscarInput{
+        font-size: 15px;
+        width: 70px;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    #nombreHeader{
+        font-size: 10px;
+        width: 100px;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    #no{
+        max-width: 150px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 12px;
+    }
+ }
+
+ @media (min-width:220px) and (max-width:279px) {
+    #no, #no{
+        max-width: 180px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 12px;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #buscarInput{
+        font-size: 15px;
+        width: 70px;
+    }
+}
+
+@media (min-width:280px) and (max-width:319px) {
+    #nombreHeader{
+        font-size: 14px;
+        width: 100px;
+    }
+}
+
+ @media (min-width:280px) and (max-width:319px) {
+    #no{
+        margin-left: 3.3%;
+        margin-right: 3.3%;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miBibliotecaTitulo{
+        padding-top: 6px;
+        margin-left: 0.1px;
+        font-size: 11px;
+        max-width: 138px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miProgramaMusicalNumero{
+        margin-top: 1px;
+        margin-left: 6px;
+        font-size: 12px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 0.1px;
+        font-size: 12px;
+        max-width: 131px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miBibliotecaTono{
+        font-size: 10px;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miProgramaMusicalTono{
+        font-size: 13px;
+    }
+}
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miProgramaMusicalAgregarMusica{
+        font-size: 10px;
+        overflow: hidden;
+        width: 42px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miProgramaMusicalBorrarMusica {
+        margin-right: 0.1px;
+        font-size: 9px;
+        overflow: hidden;
+        width: 42px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:280px) and (max-width:319px) {
+    #miProgramaMusicalQuitarMusica{
+        width: 50px;
+        margin-right: 20px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+@media (min-width:320px) and (max-width:369px) {
+    #limpiarProgramaMusical{
+        font-size: 13px;
+        width: 110px;
+    }
+}
+
+@media (min-width:320px) and (max-width:369px) {
+    #buscarInput{
+        font-size: 15px;
+        width: 110px;
+    }
+}
+
+ @media (min-width:320px) and (max-width:369px) {
+        #buscarInput{
+            font-size: 15px;
+            width: 110px;
+        }
+    }
+
+@media (min-width:320px) and (max-width:369px) {
+        #nombreHeader{
+            font-size: 14px;
+            width: 100px;
+        }
+    }
+
+@media (min-width:320px) and (max-width:359px) {
+    #no{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+ }
+
+ @media (min-width:320px) and (max-width:369px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+}
+
+@media (min-width:320px) and (max-width:369px) {
+    #miProgramaMusicalNumero{
+        margin-left: 12px;
+        font-size: 14px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+ @media (min-width:320px) and (max-width:359px) {
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: 20px;
+        font-size: 12px;
+        max-width: 152px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:320px) and (max-width:359px) {
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 13px;
+        max-width: 152px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:320px) and (max-width:359px) {
+    #miBibliotecaTono{
+        font-size: 12px;
+    }
+ }
+
+ @media (min-width:320px) and (max-width:359px) {
+    #miProgramaMusicalTono{
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:320px) and (max-width:359px) {
+    #miProgramaMusicalAgregarMusica{
+        font-size: 10px;
+        overflow: hidden;
+        white-space: nowrap;
+        width: 38px;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:320px) and (max-width:359px) {
+    #miProgramaMusicalBorrarMusica {
+        margin-right: 20px;
+        font-size: 10px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:320px) and (max-width:359px) {
+    #miProgramaMusicalQuitarMusica{
+        width: 50px;
+        margin-right: 20px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+ @media (min-width:360px) and (max-width:369px) {
+    #no{
+        margin-left: 3.3%;
+        margin-right: 3.3%;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 3.3%;
+        margin-right: 3.3%;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miProgramaMusicalNumero{
+        margin-left: 12px;
+        font-size: 14px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miBibliotecaTitulo{
+        padding-top: 2px;
+        margin-left: 13px;
+        font-size: 14px;
+        max-width: 175px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miProgramaMusicalTitulo{
+        padding-top: 2px;
+        font-size: 14px;
+        max-width: 183px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miBibliotecaTono{
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miProgramaMusicalTono{
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 40px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 13px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:360px) and (max-width:369px) {
+    #miProgramaMusicalQuitarMusica{
+        width: 50px;
+        margin-right: 20px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+
+@media (min-width:370px) and (max-width:479px) {
+    #no{
+        margin-left: 3.3%;
+        margin-right: 3.3%;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 3.3%;
+        margin-right: 3.3%;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #miProgramaMusicalNumero{
+        padding-top: 4px;
+        margin-top: 5px;
+        margin-left: 30px;
+        font-size: 14px;
+        max-width: 177px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+
+@media (min-width:370px) and (max-width:479px) {
+    #miBibliotecaTitulo{
+        padding-top: 4px;
+        margin-top: 5px;
+        margin-left: 11px;
+        font-size: 14px;
+        max-width: 177px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #miProgramaMusicalTitulo{
+        padding-top: 4px;
+        margin-top: 5px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 158px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #miBibliotecaTono{
+        padding-top: 4px;
+        margin-top: 5px;
+        font-size: 14px;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #miProgramaMusicalTono{
+        padding-top: 4px;
+        margin-top: 5px;
+        font-size: 14px;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 50px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #miProgramaMusicalBorrarMusica{
+        width: 50px;
+        margin-right: 11px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #miProgramaMusicalQuitarMusica{
+        width: 50px;
+        margin-right: 40px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #formularioMiProgramaMusicalNumero{
+        width: 50px;
+        margin-right: 11px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #no{
+        color: #000000;
+        margin: 6px;
+        margin-left: 11px;
+        font-size: 14px;
+        max-width: 177px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        text-decoration: none;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #no{
+        padding-top: 4px;
+        margin-top: 5px;
+        font-size: 14px;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #no{
+        padding-top: 2px;
+        margin: 5px;
+        width: 50px;
+        margin-right: 30px;
+        font-size: 11px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+ @media (min-width:370px) and (max-width:479px) {
+    #buscarInput{
+        font-size: 15px;
+        width: 145px;
+    }
+}
+
+@media (min-width:370px) and (max-width:479px) {
+    #nombreHeader{
+        font-size: 14px;
+        width: 100px;
+    }
+}
+
+ @media (min-width:370px) and (max-width:479px) {
+    #no{
+        max-width: 180px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:370px) and (max-width:410px) {
+    #no, #no{
+        max-width: 180px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #no{
+        margin-left: 3.3%;
+        margin-right: 3.3%;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 10.3%;
+        margin-right: 10.3%;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miProgramaMusicalNumero{
+        padding-top: 4px;
+        margin-top: 5px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 177px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+}
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miBibliotecaTitulo{
+        margin-top: 1.3px;
+        margin-left: 13px;
+        font-size: 15.5px;
+        max-width: 191px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miProgramaMusicalTitulo{
+        margin-top: 1.3px;
+        margin-left: 1px;
+        font-size: 15.5px;
+        max-width: 181px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miBibliotecaTono{
+        margin-top: 4px;
+        font-size: 15px;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miProgramaMusicalTono{
+        margin-top: 4px;
+        font-size: 15px;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:411px) and (max-width:479px) {
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+@media (min-width:480px) and (max-width:529px) {
+    #n{
+        margin-left: 11.3%;
+        margin-right: 11.3%;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 10.3%;
+        margin-right: 10.3%;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #miProgramaMusicalNumero{
+        padding-top: 4px;
+        margin-top: 5px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 177px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+ @media (min-width:480px) and (max-width:529px) {
+    #miBibliotecaTitulo{
+        margin-top: 2px;
+        margin-left: 13px;
+        font-size: 15.5px;
+        max-width: 191px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #miProgramaMusicalTitulo{
+        margin-top: 1.3px;
+        margin-left: 1px;
+        font-size: 15.5px;
+        max-width: 181px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #miBibliotecaTono{
+        margin-top: 2px;
+        font-size: 15px;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #miProgramaMusicalTono{
+        margin-top: 4px;
+        font-size: 15px;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:480px) and (max-width:529px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:530px) and (max-width:599px) {
+    #buscarInput{
+        font-size: 15px;
+        width: 145px;
+    }
+}
+
+ @media (min-width:530px) and (max-width:599px) {
+    #n{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+ }
+
+ @media (min-width:530px) and (max-width:599px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 10.3%;
+        margin-right: 10.3%;
+    }
+ }
+
+ @media (min-width:530px) and (max-width:599px) {
+    #miBibliotecaTitulo{
+        margin-top: 1.3px;
+        margin-left: 13px;
+        font-size: 15.5px;
+        max-width: 185px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:530px) and (max-width:599px) {
+    #miBibliotecaTono{
+        margin-top: 4px;
+        font-size: 15px;
+    }
+ }
+
+ @media (min-width:530px) and (max-width:599px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:530px) and (max-width:599px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:530px) and (max-width:599px) {
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:600px) and (max-width:699px) {
+    #n{
+        margin-left: 18.2%;
+        margin-right: 18.2%;
+    }
+ }
+
+ @media (min-width:600px) and (max-width:699px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 10.3%;
+        margin-right: 10.3%;
+    }
+ }
+
+ @media (min-width:600px) and (max-width:699px) {
+    #miBibliotecaTitulo{
+        margin-top: 1.3px;
+        margin-left: 13px;
+        font-size: 15.5px;
+        max-width: 185px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:600px) and (max-width:699px) {
+    #miBibliotecaTono{
+        margin-top: 4px;
+        font-size: 15px;
+    }
+ }
+
+ @media (min-width:600px) and (max-width:699px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:600px) and (max-width:699px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:600px) and (max-width:699px) {
+    #no, #no{
+        max-width: 180px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:700px) and (max-width:749px) {
+    #no{
+        max-width: 180px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:700px) and (max-width:749px) {
+    #no, #no{
+        max-width: 180px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 14px;
+    }
+  
+ }
+
+ @media (min-width:750px) and (max-width:799px) {
+    #n{
+        margin-left: 29.2%;
+        margin-right: 29.2%;
+    }
+ }
+
+ @media (min-width:750px) and (max-width:799px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 39.5%;
+        margin-right: 39.5%;
+    }
+ }
+
+@media (min-width:750px) and (max-width:799px) {
+    #miBibliotecaTitulo{
+        margin-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 158px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+@media (min-width:750px) and (max-width:799px) {
+    #miBibliotecaTono{
+        margin-top: 5px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:750px) and (max-width:799px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:750px) and (max-width:799px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 1px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:800px) and (max-width:967px) {
+    #n{
+        margin-left: 27.5%;
+        margin-right: 27.5%;
+    }
+ }
+
+ @media (min-width:800px) and (max-width:967px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 39.5%;
+        margin-right: 39.5%;
+    }
+ }
+
+ @media (min-width:800px) and (max-width:967px) {
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: 6px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:800px) and (max-width:967px) {
+    #miBibliotecaTono{
+        margin-top: 2px;
+        font-size: 15px;
+    }
+ }
+
+ @media (min-width:800px) and (max-width:967px) {
+    #miProgramaMusicalAgregarMusica{
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:800px) and (max-width:967px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:800px) and (max-width:967px) {
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 13px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:968px ) and (max-width:989px) {
+    #n{
+        width: 338px;
+    }
+ }
+
+ @media (min-width:968px ) and (max-width:989px) {
+    #n{
+        width: 338px;
+    }
+ }
+
+ @media (min-width:968px ) and (max-width:989px) {
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: -30px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:968px ) and (max-width:989px) {
+    #miBibliotecaTono{
+        margin-top: 2.2px;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:968px ) and (max-width:989px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 70px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:990px ) and (max-width:1023px) {
+    #n{
+        margin-left: 38.8%;
+        margin-right: 38.8%;
+    }
+ }
+
+ @media (min-width:990px ) and (max-width:1023px) {
+    #contenedorMiProgramaMusical2{
+        margin-left: 39.5%;
+        margin-right: 39.5%;
+    }
+ }
+
+ @media (min-width:990px ) and (max-width:1023px) {
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 70px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:990px ) and (max-width:1023px) {
+    #no{
+        margin-right: 70px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:990px ) and (max-width:1023px) {
+    #no{
+        margin-right: 70px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:990px ) and (max-width:1023px) {
+    #no{
+        margin-right: 70px;
+        width: 55px;
+        font-size: 13px;
+    }
+ }
+
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #n{
+        margin-left: 34.4%;
+        margin-right: 34.4%;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #contenedorMiProgramaMusical2{
+        margin-left: 39.5%;
+        margin-right: 39.5%;
+    }
+ }
+ 
+ @media (min-width:1024px) and (max-width: 1124px){
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #miBibliotecaTono{
+        margin-top: 2.2px;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #miProgramaMusicalTono{
+        margin-top: 2.2px;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #miProgramaMusicalAgregarMusica{
+        width: 54px;
+        font-size: 13px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1024px) and (max-width: 1124px){
+    #contenedorMiPerfil2{
+        margin-left: 39.5%;
+        margin-right: 39.5%;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #n{
+        margin-left: 37.8%;
+        margin-right: 37.8%;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #contenedorMiProgramaMusical2{
+        margin-left: 30.4%;
+        margin-right: 30.4%;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #miBibliotecaTono{
+        margin-top: 2.2px;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #miProgramaMusicalAgregarMusica{
+        width: 54px;
+        font-size: 13px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1125px) and (max-width: 1224px){
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+ 
+ @media (min-width:1225px) and (max-width: 1324px){
+    #n{
+        margin-left: 38.2%;
+        margin-right: 38.2%;
+    }
+ }
+
+ @media (min-width:1225px) and (max-width: 1324px){
+    #contenedorMiProgramaMusical2{
+        margin-left: 30.4%;
+        margin-right: 30.4%;
+    }
+ }
+
+ @media (min-width:1225px) and (max-width: 1324px){
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1225px) and (max-width: 1324px){
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1225px) and (max-width: 1324px){
+    #miBibliotecaTono{
+        margin-top: 2.2px;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:1225px) and (max-width: 1324px){
+    #miProgramaMusicalAgregarMusica{
+        width: 54px;
+        font-size: 13px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1225px) and (max-width: 1324px){
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1225px) and (max-width: 1324px){
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1325px) and (max-width: 1375px){
+    #n{
+        margin-left: 38.4%;
+        margin-right: 38.4%;
+    }
+ }
+
+ @media (min-width:1325px) and (max-width: 1375px){
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1325px) and (max-width: 1375px){
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1325px) and (max-width: 1375px){
+    #miBibliotecaTono{
+        margin-top: 2.2px;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:1325px) and (max-width: 1375px){
+    #miProgramaMusicalAgregarMusica{
+        width: 54px;
+        font-size: 13px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1325px) and (max-width: 1375px){
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1325px) and (max-width: 1375px){
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+}
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #n{
+        margin-left: 38.6%;
+        margin-right: 38.6%;
+    }
+ }
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #contenedorMiProgramaMusical2{
+        margin-left: 30.4%;
+        margin-right: 30.4%;
+    }
+ }
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #miBibliotecaTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #miBibliotecaTono{
+        margin-top: 2.2px;
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #miProgramaMusicalAgregarMusica{
+        width: 54px;
+        font-size: 13px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #miProgramaMusicalBorrarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1376px) and (max-width: 1424px){
+    #miProgramaMusicalQuitarMusica{
+        margin-right: 6px;
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #n{
+        margin-left: 38.2%;
+        margin-right: 38.2%;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #contenedorMiProgramaMusical2{
+        margin-left: 40.4%;
+        margin-right: 40.4%;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #miBibliotecaTitulo{
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #miProgramaMusicalTitulo{
+        padding-top: 3px;
+        margin-left: 1px;
+        font-size: 14px;
+        max-width: 168px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #miBibliotecaTono{
+        font-size: 14px;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #miProgramaMusicalAgregarMusica{
+        width: 54px;
+        font-size: 13px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #miProgramaMusicalBorrarMusica{
+        width: 54px;
+        font-size: 13px;
+    }
+ }
+
+ @media (min-width:1425px) and (max-width: 1524px){
+    #miProgramaMusicalQuitarMusica{
+        width: 54px;
+        font-size: 13px;
+    }
+ }

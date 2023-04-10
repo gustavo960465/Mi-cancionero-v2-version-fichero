@@ -1,0 +1,1382 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+
+  /* ============ desktop view ============ */
+@media all and (min-width: 992px) {
+	.dropdown-menu li{ position: relative; 	}
+	.nav-item .submenu{ 
+		display: none;
+		position: absolute;
+		left:100%; top:-7px;
+	}
+	.nav-item .submenu-left{ 
+		right:100%; left:auto;
+	}
+	.dropdown-menu > li:hover{ background-color: #f1f1f1 }
+	.dropdown-menu > li:hover > .submenu{ display: block; }
+}	
+/* ============ desktop view .end// ============ */
+
+/* ============ small devices ============ */
+@media (max-width: 991px) {
+  .dropdown-menu .dropdown-menu{
+      margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
+  }
+}	
+/* ============ small devices .end// ============ */
+
+
+.contenedorformularioOlvidoDeContrasena{
+    justify-content: space-around;
+    display: flex;
+    margin: auto;
+    width: 220px;
+    padding: 5px;
+}
+
+.formularioOlvidoDeContrasena{
+    margin-top: 75px;
+}
+
+.OlvidoDeContrasenaImagen{
+    margin-top: 10px;
+    position: absolute;
+}
+
+.OlvidoDeContrasenaImagenLibro{
+    width: 100px;
+}
+.olvidoDeContrasenaSpan{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #6ea6db;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+.olvidoDeContrasenaInput{
+    height: 25px;
+    margin-top: 8px;
+    padding-left: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    width: 220px;
+    font-size: 13px;
+    text-decoration: none;
+    outline: none;
+}
+
+.contenedorFormularioRegistro{
+    justify-content: space-around;
+    display: flex;
+    margin: auto;
+    width: 220px;
+    padding: 5px;
+}
+
+.registroImagen{
+    margin-top: 10px;
+    position: absolute;
+}
+.registroimagenLibro{
+    width: 100px;
+}
+
+.formularioRegistro{
+    margin-top: 75px;
+}
+
+.formularioRegistroSpan{
+    padding-bottom: -10px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #6ea6db;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+.formularioRegistroSpan2{
+    padding-bottom: -10px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #6ea6db;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+.formularioRegistroInput{
+    height: 25px;
+    padding-left: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    width: 220px;
+    font-size: 13px;
+    text-decoration: none;
+    outline: none;
+}
+
+.iniciarSesionDiv{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.iniciarSesion{
+    padding: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    transition: 0.3s ease;
+}
+
+.iniciarSesion:hover{
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px;
+    text-shadow: .5rem .5rem .5rem black;
+    transition: 0.3s ease;
+}
+
+.barra-nav{
+    background-color: #acd7ff;
+}
+.imagen{
+    width: 40px;
+    margin: 8px;
+    border-radius: 100px;
+}
+
+.iniciarSesionTitulo{
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.formularioIniciarSesionBoton{
+    margin-top: 10px;
+}
+
+.formularioIniciarSesion{
+    margin-top: 50px;
+}
+
+.inputIniciarSesionBoton{
+    padding: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    transition: 0.3s ease;
+}
+
+.inputIniciarSesionBoton:hover{
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px;
+    text-shadow: .5rem .5rem .5rem black;
+    transition: 0.3s ease;
+}
+
+.contenedorContrasenaYmostrar{
+    margin: 0;
+}
+
+.contenedorConfirmarContrasenaYmostrar{
+    margin-top: 34px;
+}
+
+.contenedorInternoContrasena{
+    position: absolute;
+}
+
+.contenedorInternoMostrarContrasena{
+    margin-left: 184px;
+    padding-top: 7px;
+    position: absolute;
+}
+.contenedorInternoMostrarContrasenaPerfil{
+    margin-left: 173px;
+    padding-top: 26px;
+    position: absolute;
+}
+
+.contenedorInternoOlvidoYregistro{
+    margin-top: 45px;
+}
+
+.mostrarContrasena{
+    font-size: 14px;
+    border-radius: 0 10px 10px 0;
+    background-color: #ffffff;
+    border: 0;
+    width: 35px;
+}
+
+.ojito1{
+    width: 20px;
+}
+
+.ojito2{
+    width: 20px;
+}
+
+.contenedorInternoMostrarContrasenaRegistro{
+    margin-left: 184px;
+    position: absolute;
+}
+
+.OlvideMiContrasena{
+    font-size: 13px;
+    margin-left: 75px;
+    text-decoration: none;
+}
+
+.registrame{
+    margin: 5px;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+#buscarInput{
+    outline: none;
+    margin-right: 10px;
+    width: 150px;
+}
+
+#miBibliotecaEncabezado, .miPerfilEncabezado{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #329afc;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+#miProgramaMusicalEncabezado{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #329afc;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+
+#headerPropaganda{
+    padding: 4px;
+    margin-left: 14px;
+    background-color: white;
+    text-decoration: none;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    transition: 0.3s ease;
+}
+
+#headerPropaganda:hover{
+    padding: 4px;
+    margin-left: 12px;
+    background-color: #6ea6db;
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px;
+    text-shadow: .5rem .5rem .5rem black;
+    transition: 0.3s ease;
+}
+
+#propagandaBoton{
+    position: absolute;
+    width: 210px;
+    padding-left: 70px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px;
+    text-shadow: .6rem .6rem .6rem black;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#propagandaBoton:hover{
+    position: absolute;
+    padding-left: 70px;
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.enviar, .enviarSoporteTecnico{
+    text-decoration: none;
+    padding: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    transition: 0.3s ease;
+}
+
+.enviar:hover, .enviarSoporteTecnico:hover{
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px;
+    text-shadow: .5rem .5rem .5rem black;
+    transition: 0.3s ease;
+}
+
+#guardarNuevaCancion,#guardarPerfil,.guardarVersionCancion{
+    margin: 8px;
+    padding: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#guardarNuevaCancion:hover, #guardarPerfil:hover,.guardarVersionCancion:hover{
+    margin: 8px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#formularioVersionLetraUno,#formularioVersionLetraDos{
+    margin-top: 10px;
+}
+
+.limpiarProgramaMusical{
+    padding: 4px;
+    margin-right: 4px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.limpiarProgramaMusical:hover{
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#guardar{
+    padding: 4px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 0 10px 10px 0;
+    text-shadow: 1rem 1rem 1rem black;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.formularioVersionCancionBoton{
+    padding: 4px;
+    margin-right: -14px;
+    background-color: white;
+    color: #6ea6db;
+    border: 1px solid #329afc;
+    border-radius: 10px 0 0 10px;
+    text-shadow: 1rem 1rem 1rem black;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+#guardar:hover{
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 0 10px 10px 0;
+    text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.formularioVersionCancionBoton:hover{
+    padding: 4px;
+    margin-right: -14px;
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px 0 0 10px;
+    text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+
+#formularioMiProgramaMusical{
+    padding: 4px;
+    display: inline-block;
+}
+
+
+#formularioMiProgramaMusicalNumero{
+    color: #000000;
+    font-size: 15px;
+    font-weight: 600;
+    background:none;
+    border:none;
+    outline: none;
+    resize: none;
+    margin-right: -16px;
+    width: 25px;
+}
+
+#formularioEditarBorrarNumero{
+    position: absolute;
+    padding-left: 15px;
+    color: #000000;
+    margin-left: -45px;
+    font-size: 16px;
+    font-weight: 600;
+    background: #acd7ff;
+    border:none;
+    border-radius: 50px;
+    outline: none;
+    resize: none;
+    margin-right: -3px;
+    width: 40px;
+}
+
+
+#miBibliotecaVersion{
+    margin-left: 2px;
+    border-radius: 50px;
+    text-decoration: none;
+    background: none;
+    color: #000000;
+    border: 0.5px solid #000000;
+    display: inline-block;
+}
+
+#miBibliotecaVersion:hover{
+    background-color: #6ea6db;
+    color: #ffffff;
+    border: 1px solid #acd7ff;
+    border-radius: 10px 10px 10px 10px;
+    text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+    transition: 0.1s ease;
+}
+
+#miBibliotecaEncabezado{
+    text-align: center;
+}
+
+.contenedorMiBiblioteca{
+    justify-content: space-around;
+    display: flex;
+    margin: auto;
+    width: 300px;
+    padding: 5px;
+}
+
+.miBibliotecaTitulo{
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.controlAncla{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    width: 140px;
+}
+
+.controlTono{
+    padding-top: 4px;
+    font-size: 13px;
+    display: inline-block;
+    width: 45px;
+}
+
+.controlEditar{
+    display: inline-block;
+}
+
+.controlBotonEditar{
+    font-size: 14px;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 50px;
+}
+
+.controlBorrar{
+    display: inline-block;
+}
+
+.controlBotonBorrar{
+    font-size: 14px;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 50px;
+}
+
+.contenedorMiProgramaMusical{
+    justify-content: space-around;
+    display: flex;
+    margin: auto;
+    width: 300px;
+    padding: 5px;
+}
+
+.miProgramaMusicalInputNumero{
+    width: 20px;
+    text-decoration: none;
+    outline: none;
+    border: 0;
+}
+
+.miProgramaMusicalNumero{
+    padding-top: 1px;
+    font-size: 14px;
+    text-decoration: none;
+    outline: none;
+    border: 0;
+}
+
+.miProgramaTitulo{
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.controlAncla{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    width: 160px;
+}
+
+.miProgramaTono{
+    padding-top: 4px;
+    font-size: 13px;
+    display: inline-block;
+    width: 45px;
+}
+
+.miProgramaQuitarMusica{
+    display: inline-block;
+}
+
+.miProgramaBotonQuitarMusica{
+    font-size: 14px;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 50px;
+}
+
+.contenedorIniciarSesion{
+    justify-content: space-around;
+    display: flex;
+    margin: auto;
+    width: 220px;
+    padding: 5%;
+}
+
+.iniciarSesionImagen{
+    position: absolute;
+}
+
+.imagenLibro{
+    width: 100px;
+}
+
+.iniciarSesionSpan{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #6ea6db;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+.inputIniciarSesion{
+    height: 25px;
+    margin-top: 8px;
+    padding-left: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    width: 220px;
+    font-size: 13px;
+    text-decoration: none;
+    outline: none;
+}
+
+.miPerfilEncabezado{
+    text-align: center;
+}
+
+.contenedorMiPerfil{
+    justify-content: space-around;
+    display: flex;
+    margin: auto;
+    width: 220px;
+    padding: 5px;
+}
+
+.inputPerfil{
+    height: 25px;
+    padding-left: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    width: 210px;
+    font-size: 13px;
+    text-decoration: none;
+    outline: none;
+}
+
+.inputSoporteTecnico{
+    height: 25px;
+    padding-left: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    width: 210px;
+    font-size: 13px;
+    text-decoration: none;
+    outline: none;
+}
+
+.spanMiPerfil, .spanSoporteTecnico{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #6ea6db;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+.contenedorPropaganda{
+    justify-content: space-around;
+    display: block;
+    margin: auto;
+    width: 220px;
+    padding: 5px;
+}
+
+#formPropaganda2{
+    display: block;
+}
+
+.spanPropaganda{
+    width: 219px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #6ea6db;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+.spanPropaganda2{
+    width: 219px;
+    text-align: center;
+    font-size: 14px;
+    text-shadow: .01rem .01rem .01rem #000000;
+}
+
+.cajaPropaganda{
+    border: 1px solid #000000;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 3px;
+    font-size: 14px;
+    width: 210px;
+    resize: none;
+    outline: none;
+}
+
+.cajaDePropaganda2{
+    border: 0;
+    margin-top: 25px;
+    padding: 3px;
+    font-size: 14px;
+    width: 210px;
+    resize: none;
+    outline: none;
+}
+
+.Imgmercantil{
+    width: 40px;
+}
+
+.ImgVenezuela{
+    width: 40px;
+}
+
+.mercantil{
+    font-size: 12px;
+    position: relative;
+    margin-left: 30px;
+}
+.venezuela{
+    font-size: 12px;
+    position: relative;
+    margin-left: 30px;
+}
+
+.cajaSoporteTecnico{
+    padding: 3px;
+    font-size: 14px;
+    width: 210px;
+    resize: none;
+    outline: none;
+}
+
+.autor, .derechosReservados{
+    margin-top: 5px;
+    text-align: center;
+    position: relative;
+    font-weight: 600;
+    font-size: 11px;
+}
+
+.notaSoporteTecnico{
+    font-size: 12px;
+    margin-top: 3px;
+    text-align: center;
+    position: relative;
+    font-weight: 600;
+}
+
+#formularioNuevaCancion{
+    text-align: center;
+    font-weight: 500;
+    border: 0;
+    outline: none;
+    resize: none;
+    justify-content: space-around;
+    display: flex;
+    margin: 0 auto;
+    width: 220px;
+    
+}
+
+#formularioEditarBorrarCancion{
+    margin: 0;
+    text-align: center;
+    font-weight: 500;
+    border: 0;
+    outline: none;
+    resize: none;
+}
+#formularioEditarBorrarTitulo{
+    margin: 0;
+    text-align: center;
+    font-weight: 500;
+    border: 0;
+    outline: none;
+    resize: none;
+    max-width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#formularioEditarBorrarTono{
+    margin: 0;
+    text-align: center;
+    font-weight: 500;
+    color: #6ea6db;
+    border: 0;
+    outline: none;
+    resize: none;
+}
+
+#formularioEditarBorrarLetra{
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+    border: 0;
+    outline: none;
+    resize: none;
+    width: 240px;
+}
+
+#formularioNuevoTitulo{
+    padding: 0;
+    margin: 5px;
+    text-align: center;
+    font-weight: 500;
+    border: 0;
+    outline: none;
+    resize: none;
+}
+
+#formularioNuevoTono{
+    margin-bottom: 5px;
+    text-align: center;
+    font-weight: 500;
+    border: 0;
+    outline: none;
+    resize: none;
+}
+
+#formularioNuevaLetra{
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    border: 0;
+    outline: none;
+    resize: none;
+    justify-content: space-around;
+    display: flex;
+    margin: 0 auto;
+    width: 220px;
+}
+
+#formularioVersionTitulo{
+    margin: 0px;
+    text-align: center;
+    font-weight: 500;
+    border: 0;
+    outline: none;
+    resize: none;
+    width: 100%;
+}
+
+#formularioVersionTono{
+    padding: 0;
+    margin: 0px;
+    text-align: center;
+    font-weight: 500;
+    color: #6ea6db;
+    border: 0;
+    outline: none;
+    resize: none;
+}
+
+#formularioVersionLetraUno, #formularioVersionLetraDos{
+    text-align: center;
+    font-size: 15px;
+    border: 0;
+    outline: none;
+    resize: none;
+    width: 100%;
+}
+
+#linkTitulo{
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+#nombreHeader{
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    margin-top: 5px;
+    margin-left: -20px;
+}
+
+#nombreHeader:hover{
+    color: #375877;
+}
+
+#editado2 {
+    color: rgb(255, 0, 0);
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    #miBibliotecaEncabezado, .miPerfilEncabezado{
+        font-size: 13px;
+    }
+    #miProgramaMusicalEncabezado{
+        font-size: 13px;
+    }
+    #nombreHeader{
+        font-size: 9px;
+        color: rgb(0, 0, 0);
+        font-weight: 500;
+        margin-top: 5px;
+        margin-left: -20px;
+    }
+    .imagen{
+        width: 27px;
+        margin: 8px;
+        border-radius: 100px;
+    }
+    #buscarInput{
+        outline: none;
+        margin: 6px;
+        width: 70px;
+    }
+    .limpiarProgramaMusical{
+        font-size: 10px;
+        outline: none;
+        width: 90px;
+    }
+    #guardarPerfil{
+        margin: 8px;
+        padding: 4px;
+        background-color: white;
+        color: #6ea6db;
+        border: 1px solid #329afc;
+        border-radius: 10px;
+        text-shadow: 1rem 1rem 1rem black;
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+    
+    #guardarPerfil:hover{
+        margin: 8px;
+        background-color: #6ea6db;
+        color: #ffffff;
+        border: 1px solid #acd7ff;
+        border-radius: 10px;
+        text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    .contenedorMiBiblioteca{
+        justify-content: space-around;
+        display: flex;
+        margin: auto;
+        width: 220px;
+        padding: 5px;
+    }
+    .miBibliotecaTitulo{
+        font-size: 11px;
+        text-decoration: none;
+    }
+    .controlAncla{
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        display: inline-block;
+        width: 140px;
+    }
+    .controlTono{
+        padding-top: 6px;
+        font-size: 11px;
+        display: inline-block;
+        width: 45px;
+    }
+    .controlEditar{
+        display: inline-block;
+    }
+    .controlBotonEditar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 36px;
+    }
+    .controlBorrar{
+        display: inline-block;
+    }
+    .controlBotonBorrar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 36px;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+    .contenedorMiProgramaMusical{
+        justify-content: space-around;
+        display: flex;
+        margin: auto;
+        width: 220px;
+        padding: 5px;
+    }
+    
+    .miProgramaMusicalInputNumero{
+        width: 15px;
+        text-decoration: none;
+        outline: none;
+        border: 0;
+    }
+    
+    .miProgramaMusicalNumero{
+        padding-top: 5.01px;
+        font-size: 11px;
+        text-decoration: none;
+        outline: none;
+        border: 0;
+    }
+    
+    .miProgramaTitulo{
+        font-size: 11px;
+        text-decoration: none;
+    }
+    
+    .controlAncla{
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        display: inline-block;
+        width: 160px;
+    }
+    
+    .miProgramaTono{
+        padding-top: 6px;
+        font-size: 11px;
+        display: inline-block;
+        width: 45px;
+    }
+    
+    .miProgramaQuitarMusica{
+        display: inline-block;
+    }
+    
+    .miProgramaBotonQuitarMusica{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 40px;
+    }
+}
+
+@media (min-width:220px) and (max-width:279px) {
+
+    .formularioVersionCancionBoton{
+        width: 10px;
+        padding: 4px;
+        margin-right: -10px;
+        background-color: rgb(255, 255, 255);
+        color: #6ea6db;
+        border: 1px solid #329afc;
+        border-radius: 10px 0 0 10px;
+        text-shadow: 1rem 1rem 1rem black;
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+
+    .formularioVersionCancionBoton:hover{
+        margin-right: -10px;
+        background-color: #6ea6db;
+        color: #ffffff;
+        border: 1px solid #acd7ff;
+        border-radius: 10px 0 0 10px;
+        text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+
+    #guardar{
+        padding: 4px;
+        margin-right: 10px;
+        margin-left: 10px;
+        background-color: white;
+        color: #6ea6db;
+        border: 1px solid #329afc;
+        border-radius: 0 10px 10px 0;
+        text-shadow: 1rem 1rem 1rem black;
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+    #guardar:hover{
+        margin-right: 10px;
+        margin-left: 10px;
+        background-color: #6ea6db;
+        color: #ffffff;
+        border: 1px solid #acd7ff;
+        border-radius: 0 10px 10px 0;
+        text-shadow: 1rem 1rem 1rem rgb(255, 255, 255);
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+}
+
+@media (min-width:280px) and (max-width:319px) {
+    #miBibliotecaEncabezado, .miPerfilEncabezado{
+        font-size: 15px;
+    }
+    #miProgramaMusicalEncabezado{
+        font-size: 15px;
+    }
+    #nombreHeader{
+        font-size: 10px;
+        color: rgb(0, 0, 0);
+        font-weight: 500;
+        margin-top: 5px;
+        margin-left: -20px;
+    }
+    .imagen{
+        width: 30px;
+        margin: 8px;
+        border-radius: 100px;
+    }
+    #buscarInput{
+        outline: none;
+        margin: 8px;
+        width: 110px;
+    }
+    .limpiarProgramaMusical{
+        font-size: 10px;
+        outline: none;
+        width: 90px;
+    }
+}
+
+@media (min-width:280px) and (max-width:319px) {
+    .contenedorMiBiblioteca{
+        justify-content: space-around;
+        display: flex;
+        margin: auto;
+        width: 270px;
+        padding: 5px;
+    }
+    .miBibliotecaTitulo{
+        font-size: 11px;
+        text-decoration: none;
+    }
+    .controlAncla{
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        display: inline-block;
+        width: 140px;
+    }
+    .controlTono{
+        padding-top: 6px;
+        font-size: 11px;
+        display: inline-block;
+        width: 45px;
+    }
+    .controlEditar{
+        display: inline-block;
+    }
+    .controlBotonEditar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 36px;
+    }
+    .controlBorrar{
+        display: inline-block;
+    }
+    .controlBotonBorrar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 36px;
+    }
+}
+
+@media (min-width:320px) and (max-width:369px) {
+    #miBibliotecaEncabezado, .miPerfilEncabezado{
+        font-size: 15px;
+    }
+    #miProgramaMusicalEncabezado{
+        font-size: 15px;
+    }
+    #nombreHeader{
+        font-size: 10px;
+        color: rgb(0, 0, 0);
+        font-weight: 500;
+        margin-top: 8px;
+        margin-left: -20px;
+    }
+    .imagen{
+        width: 30px;
+        margin: 8px;
+        border-radius: 100px;
+    }
+    #buscarInput{
+        outline: none;
+        margin: 8px;
+        width: 140px;
+    }
+    .limpiarProgramaMusical{
+        font-size: 10px;
+        outline: none;
+        width: 90px;
+    }
+}
+
+@media (min-width:320px) and (max-width:369px) {
+    .contenedorMiBiblioteca{
+        justify-content: space-around;
+        display: flex;
+        margin: auto;
+        width: 280px;
+        padding: 5px;
+    }
+    .miBibliotecaTitulo{
+        font-size: 11px;
+        text-decoration: none;
+    }
+    .controlAncla{
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        display: inline-block;
+        width: 140px;
+    }
+    .controlTono{
+        padding-top: 6px;
+        font-size: 11px;
+        display: inline-block;
+        width: 42px;
+    }
+    .controlEditar{
+        display: inline-block;
+    }
+    .controlBotonEditar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 40px;
+    }
+    .controlBorrar{
+        display: inline-block;
+    }
+    .controlBotonBorrar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 40px;
+    }
+}
+
+@media (min-width:480px) and (max-width:529px) {
+    #nombreHeader{
+        font-size: 10px;
+        color: rgb(0, 0, 0);
+        font-weight: 500;
+        margin-top: 5px;
+        margin-left: -20px;
+    }
+    .imagen{
+        width: 30px;
+        margin: 8px;
+        border-radius: 100px;
+    }
+    #buscarInput{
+        outline: none;
+        margin: 8px;
+        width: 150px;
+    }
+    .limpiarProgramaMusical{
+        font-size: 10px;
+        outline: none;
+        width: 90px;
+    }
+ }
+
+@media (min-width:530px) and (max-width:599px) {
+    #nombreHeader{
+        font-size: 10px;
+        color: rgb(0, 0, 0);
+        font-weight: 500;
+        margin-top: 5px;
+        margin-left: -20px;
+    }
+    .imagen{
+        width: 30px;
+        margin: 8px;
+        border-radius: 100px;
+    }
+    #buscarInput{
+        outline: none;
+        margin: 8px;
+        width: 150px;
+    }
+    .limpiarProgramaMusical{
+        font-size: 10px;
+        outline: none;
+        width: 90px;
+    }
+}
+
+@media (min-width:530px) and (max-width:599px) {
+    .contenedorMiBiblioteca{
+        justify-content: space-around;
+        display: flex;
+        margin: auto;
+        width: 350px;
+        padding: 5px;
+    }
+    .miBibliotecaTitulo{
+        font-size: 13px;
+        text-decoration: none;
+    }
+    .controlAncla{
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        display: inline-block;
+        width: 180px;
+    }
+    .controlTono{
+        padding-top: 4px;
+        font-size: 13px;
+        display: inline-block;
+        width: 38px;
+    }
+    .controlEditar{
+        display: inline-block;
+    }
+    .controlBotonEditar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 45px;
+    }
+    .controlBorrar{
+        display: inline-block;
+    }
+    .controlBotonBorrar{
+        font-size: 11px;
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 45px;
+    }
+}

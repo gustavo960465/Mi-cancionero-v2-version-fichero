@@ -1,0 +1,17 @@
+{
+    "usuario": [
+        {
+            "id": "01",
+            "id_usuario": "02",
+            "nombre": null,
+            "apellido": null,
+            "correo": null,
+            "contrasena": null,
+            "contrasena2": "d41d8cd98f00b204e9800998ecf8427e",
+            "numeroTelefonico": "",
+            "imagen": "",
+            "pais": "",
+            "estado": ""
+        }
+    ]
+}

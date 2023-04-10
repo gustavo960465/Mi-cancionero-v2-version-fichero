@@ -1,0 +1,17 @@
+{
+    "usuario": [
+        {
+            "id": "01",
+            "id_usuario": "02",
+            "nombre": "Gustavo",
+            "apellido": "Granadino",
+            "correo": "tavo960465@gmail.com",
+            "contrasena": "h",
+            "contrasena2": "2510c39011c5be704182423e3a695e91",
+            "numeroTelefonico": "",
+            "imagen": "",
+            "pais": "",
+            "estado": ""
+        }
+    ]
+}
